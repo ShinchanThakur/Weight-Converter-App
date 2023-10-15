@@ -1,7 +1,13 @@
 body {
     margin-top: 70px;
+    background: #333;
+    color: #fff;
 }
 
 .row {
     justify-content: center;
+}
+
+.card-block {
+    padding-left: 1rem;
 }
